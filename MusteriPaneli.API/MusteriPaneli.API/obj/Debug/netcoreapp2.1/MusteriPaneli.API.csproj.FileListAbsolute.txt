@@ -1,0 +1,28 @@
+C:\Users\serge\source\repos\MusteriPaneli.API\MusteriPaneli.API\bin\Debug\netcoreapp2.1\MusteriPaneli.API.deps.json
+C:\Users\serge\source\repos\MusteriPaneli.API\MusteriPaneli.API\bin\Debug\netcoreapp2.1\MusteriPaneli.API.runtimeconfig.json
+C:\Users\serge\source\repos\MusteriPaneli.API\MusteriPaneli.API\bin\Debug\netcoreapp2.1\MusteriPaneli.API.runtimeconfig.dev.json
+C:\Users\serge\source\repos\MusteriPaneli.API\MusteriPaneli.API\bin\Debug\netcoreapp2.1\MusteriPaneli.API.dll
+C:\Users\serge\source\repos\MusteriPaneli.API\MusteriPaneli.API\bin\Debug\netcoreapp2.1\MusteriPaneli.API.pdb
+C:\Users\serge\source\repos\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.RazorAssemblyInfo.cache
+C:\Users\serge\source\repos\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.RazorAssemblyInfo.cs
+C:\Users\serge\source\repos\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.AssemblyInfo.cs
+C:\Users\serge\source\repos\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.RazorTargetAssemblyInfo.cache
+C:\Users\serge\source\repos\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.dll
+C:\Users\serge\source\repos\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.pdb
+C:\Users\serge\source\repos\Müşteri Paneli Uygulaması\MusteriPaneli.API\MusteriPaneli.API\bin\Debug\netcoreapp2.1\MusteriPaneli.API.deps.json
+C:\Users\serge\source\repos\Müşteri Paneli Uygulaması\MusteriPaneli.API\MusteriPaneli.API\bin\Debug\netcoreapp2.1\MusteriPaneli.API.runtimeconfig.json
+C:\Users\serge\source\repos\Müşteri Paneli Uygulaması\MusteriPaneli.API\MusteriPaneli.API\bin\Debug\netcoreapp2.1\MusteriPaneli.API.runtimeconfig.dev.json
+C:\Users\serge\source\repos\Müşteri Paneli Uygulaması\MusteriPaneli.API\MusteriPaneli.API\bin\Debug\netcoreapp2.1\MusteriPaneli.API.dll
+C:\Users\serge\source\repos\Müşteri Paneli Uygulaması\MusteriPaneli.API\MusteriPaneli.API\bin\Debug\netcoreapp2.1\MusteriPaneli.API.pdb
+C:\Users\serge\source\repos\Müşteri Paneli Uygulaması\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\Müşteri Paneli Uygulaması\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\Müşteri Paneli Uygulaması\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.RazorAssemblyInfo.cache
+C:\Users\serge\source\repos\Müşteri Paneli Uygulaması\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.RazorAssemblyInfo.cs
+C:\Users\serge\source\repos\Müşteri Paneli Uygulaması\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\Müşteri Paneli Uygulaması\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.AssemblyInfo.cs
+C:\Users\serge\source\repos\Müşteri Paneli Uygulaması\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.RazorTargetAssemblyInfo.cache
+C:\Users\serge\source\repos\Müşteri Paneli Uygulaması\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.dll
+C:\Users\serge\source\repos\Müşteri Paneli Uygulaması\MusteriPaneli.API\MusteriPaneli.API\obj\Debug\netcoreapp2.1\MusteriPaneli.API.pdb

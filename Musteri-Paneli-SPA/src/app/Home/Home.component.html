@@ -1,0 +1,32 @@
+<div class="col-md-8" style="margin-left:10px;">
+  <h2 style="margin-left: 300px; margin-top:20px;"><b><u> MÜŞTERİLER </u></b></h2>
+  
+  <button class="btn btn-primary" style="margin-left:770px;" routerLink="/login" routerLinkActive="active" type="button"> Çıkış Yap</button>
+  
+  <table class="table table-striped">
+    <thead>
+    <tr>
+      <th>No</th>
+      <th>Ad</th>
+      <th>Soyad</th>
+      <th>TC Kimlik No</th>
+      <th>Telefon</th>
+      <th>Adres</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let customer of customers">
+      <td>{{customer.m_No}}</td>
+      <td>{{customer.musteriAdi}}</td>
+      <td>{{customer.musteriSoyadi}}</td>
+      <td>{{customer.musteri_TC}}</td>
+      <td>{{customer.musteri_Tel}}</td>
+      <td>{{customer.musteri_Adres}}</td>
+      <td><button class="btn btn-warning" (click)="editCustomer(customer)" style="margin-left: 35px;"> Düzenle</button>
+        <button class="btn btn-danger" (click)="deleteCustomer(customer)" style="margin-left: 5px;"> Sil</button>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+  <button class="btn btn-primary" (click)="addCustomer()" style="margin-left:770px;" > Müşteri Ekle</button>
+</div>

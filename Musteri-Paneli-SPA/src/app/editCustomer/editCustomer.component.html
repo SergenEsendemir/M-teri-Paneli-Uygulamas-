@@ -1,0 +1,55 @@
+<form [formGroup]="editForm" (ngSubmit)="editCustomer()" class="form-edit">
+    <h2 class="mt-5"> <br/>Müşteri Güncelle</h2>
+    <div class="form-group">
+      <input type="text" id="musteriAdi" name="musteriAdi" formControlName="musteriAdi" class="form-control" placeholder="Ad"
+        autofocus>
+      <span class="help-block" *ngIf="editForm.get('musteriAdi').hasError('required') && editForm.get('musteriAdi').touched">
+        Müşteri adı gerekli
+      </span>
+    </div>
+
+    <div class="form-group">
+        <input type="text" id="musteriSoyadi" name="musteriSoyadi" formControlName="musteriSoyadi" class="form-control" placeholder="Soyad"
+          autofocus>
+        <span class="help-block" *ngIf="editForm.get('musteriSoyadi').hasError('required') && editForm.get('musteriSoyadi').touched">
+          Müşteri soyadı gerekli
+        </span>
+      </div>
+
+    <div class="form-group">
+      <input type="text" id="musteri_TC" name="musteri_TC" formControlName="musteri_TC" class="form-control" placeholder="TC Kimlik No">
+      <span class="help-block" *ngIf="editForm.get('musteri_TC').hasError('required') && editForm.get('musteri_TC').touched">
+        TC kimlik numarası gerekli
+      </span>
+      <span class="help-block" *ngIf="editForm.get('musteri_TC').hasError('minlength') && editForm.get('musteri_TC').touched">
+        11 karakter olmalıdır.
+      </span>
+      <span class="help-block" *ngIf="editForm.get('musteri_TC').hasError('maxlength') && editForm.get('musteri_TC').touched">
+        11 karakter olmalıdır.
+        </span>
+    </div>
+
+    <div class="form-group">
+        <input type="text" id="musteri_Tel" name="musteri_Tel" formControlName="musteri_Tel" class="form-control" placeholder="Telefon No">
+        <span class="help-block" *ngIf="editForm.get('musteri_Tel').hasError('required') && editForm.get('musteri_Tel').touched">
+          Telefon numarası gerekli
+        </span>
+        <span class="help-block" *ngIf="editForm.get('musteri_Tel').hasError('minlength') && editForm.get('musteri_Tel').touched">
+          en az 10 karakter olmalıdır.
+        </span>
+        <span class="help-block" *ngIf="editForm.get('musteri_Tel').hasError('maxlength') && editForm.get('musteri_Tel').touched">
+          en fazla 11 karakter olmalıdır.
+          </span>
+      </div>
+      
+      <div class="form-group">
+          <input type="text" id="musteri_Adres" name="musteri_Adres" formControlName="musteri_Adres" class="form-control" placeholder="Adres"
+            autofocus>
+          <span class="help-block" *ngIf="editForm.get('musteri_Adres').hasError('maxlength') && editForm.get('musteri_Adres').touched">
+              en fazla 20 karakter olmalıdır.
+              </span>
+        </div>
+
+    <button class="btn btn-lg btn-primary btn-block" [disabled]="!editForm.valid" type="submit">Müşteriyi Güncelle</button>
+    <button class="btn btn-lg btn-success btn-block" routerLink="/home" routerLinkActive="active"  type="button">Ana Sayfa</button>
+  </form>
